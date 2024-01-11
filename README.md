@@ -2,5 +2,4 @@
 
 ### My Certificate
 <!--START_SECTION:badges-->
-[![Red Hat Certified System Administrator (RHCSA)](https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png)](https://www.credly.com/badges/344c707d-5ec3-4d44-a55a-b4cab6b0ea58 "Red Hat Certified System Administrator (RHCSA)")
 <!--END_SECTION:badges-->
